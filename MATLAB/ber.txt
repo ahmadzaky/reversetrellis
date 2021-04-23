@@ -1,0 +1,62 @@
+Panjang Constraint : 7
+Laju kode : 1
+Generator : 133 171 dan 165
+SNR : 6
+Total bit data : 640
+Total bit rusak: 5
+BER : 0.00781
+
+110011110001011100001001111101111011001111110111101001100100010001000010000110101100001111011000101100100111010111000100
+
+
+Panjang Constraint : 7
+Laju kode : 1
+Generator : 133 171 dan 165
+SNR : 5
+Total bit data : 640
+Total bit rusak: 6
+BER : 0.00937
+
+
+Panjang Constraint : 7
+Laju kode : 1
+Generator : 133 171 dan 165
+SNR : 4
+Total bit data : 640
+Total bit rusak: 22
+BER : 0.03438
+
+
+Panjang Constraint : 7
+Laju kode : 1
+Generator : 133 171 dan 165
+SNR : 3
+Total bit data : 640
+Total bit rusak: 73
+BER : 0.11406
+
+Panjang Constraint : 7
+Laju kode : 1
+Generator : 133 171 dan 165
+SNR : 2
+Total bit data : 640
+Total bit rusak: 136
+BER : 0.21250
+
+Panjang Constraint : 7
+Laju kode : 1
+Generator : 133 171 dan 165
+SNR : 1
+Total bit data : 640
+Total bit rusak: 208
+BER : 0.32500
+
+Panjang Constraint : 7
+Laju kode : 1
+Generator : 133 171 dan 165
+SNR : 0
+Total bit data : 640
+Total bit rusak: 275
+BER : 0.42969
+
+0.42969 0.32500 0.21250 0.11406 0.03438 0.00937 0.00781
